@@ -13,6 +13,7 @@ This project focuses on the challenging task of **detecting online hate speech i
 
 This repository specifically contains a **Bidirectional Long Short-Term Memory (BiLSTM) model**, serving as a comprehensive baseline and a deep dive into recurrent neural network architectures. The insights gained from this implementation will be crucial for the next phase of my research, which involves developing a hybrid BiLSTM-Transformer model.
 
+Test this model here: https://huggingface.co/spaces/carpenterbb/curupira-bilstm-baseline-app
 ---
 
 ## 2. The Problem: Online Hate Speech in Portuguese
